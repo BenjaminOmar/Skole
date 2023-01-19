@@ -26,10 +26,21 @@ Route::get('/pizzas', function () {
         ['type' => 'veg supreme', 'base' => 'thin & crispy']
     ];
 
+
+
     // $pizza = [
     //     'type' => 'hawaiian',
     //     'base' => 'garlic',
     //     'price' => 16
     // ];
-    return view('pizzas', ['pizzas' => $pizzas]);
+    return view('pizzas', [
+        'pizzas' => $pizzas,
+        'name' => request('name'),
+        'age' => request('age')
+    ]);
+});
+
+Route::get('/pizzas/{id}', function ($id) {
+    // use the $id ariable to query the db for a record
+    return view('details', ['id' => $id]);
 });
