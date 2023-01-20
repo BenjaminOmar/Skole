@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class BubbleSort {
     public static void main(String[] args) throws Exception {
-       int[] numbers = {7,3,1,4,6};
+       int[] numbers = {7,3,1,4,6, 4, 3, 10, 17};
 
        BubbleSort a = new BubbleSort();
 
