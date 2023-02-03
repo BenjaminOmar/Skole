@@ -1,0 +1,12 @@
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net7.0/BuberBreakfast.Contracts.deps.json
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net7.0/BuberBreakfast.Contracts.dll
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net7.0/BuberBreakfast.Contracts.pdb
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.dll
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/refint/BuberBreakfast.Contracts.dll
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.pdb
+/Users/benjamin/Desktop/skole/Github - skole/Kurs/.NET 6 - rest api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/ref/BuberBreakfast.Contracts.dll
