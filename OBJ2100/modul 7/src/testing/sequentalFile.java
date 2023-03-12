@@ -15,8 +15,8 @@ public class sequentalFile {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        Path file = Paths.get("/Users/benjamin/Desktop/skole/Github - skole/OBJ2100/modul 7/src/testing/test.txt");
-
+        // Path file = Paths.get("/Users/benjamin/Desktop/skole/Github - skole/OBJ2100/modul 7/src/testing/test.txt");
+        Path file = Paths.get("./OBJ2100/modul 7/src/testing/test2.txt");
         int QUIT = 99;
         String sending = "";
 
@@ -32,7 +32,7 @@ public class sequentalFile {
                 input.nextLine();
                 System.out.println("Please enter name of employee:");
                 String name = input.nextLine();
-
+    
                 System.out.println("enter payrate:");
                 double payrate = input.nextDouble();
 
@@ -47,7 +47,7 @@ public class sequentalFile {
             input.close();
         }
         catch(IOException e) {
-            System.out.println("Error");
+            // System.out.println("Error");
         }
     }
 }
